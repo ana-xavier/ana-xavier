@@ -7,7 +7,7 @@
 </br>
   <ul>
     <li>📚 I'm currently studying java!</li>
-    <li>💻 I'm attending the second semester of graduation in Computer Science at PUCRS university.</li>
+    <li>💻 I'm attending the third semester of graduation in Computer Science at PUCRS university.</li>
     <li>🤖 Pronouns: She/Her</li>
   </ul>
 </div>
