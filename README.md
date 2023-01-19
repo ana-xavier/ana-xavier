@@ -14,12 +14,6 @@
 
 <div align="center">
 </br>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ana-xavier&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-xavier&layout=compact&langs_count=7&theme=omni"/>
-</div>
-
-<div align="center">
-</br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
