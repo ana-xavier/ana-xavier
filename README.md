@@ -1,6 +1,6 @@
 <div>
   <p align="center"><i>Hi, I'm Ana!<i/></p>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="300" height="300" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="200" height="200" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
 <div>
