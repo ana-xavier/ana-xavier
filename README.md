@@ -1,14 +1,14 @@
 <div>
   <p align="center"><i>Hi, I'm Ana!<i/></p>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e295592b350b2a260cc89045101a401d.gif" align="right" alt="Rafa-pic" height="150" style="border-radius:50px alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="300" height="300" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
 
 <div>
 </br>
   <ul>
-    <li>📚 I'm currently studying java!</li>
+    <li>📚 I'm currently studying Java!</li>
+    <li>👩🏽‍💻 I've started studying C language.</li>
     <li>💻 I'm attending the third semester of graduation in Computer Science at PUCRS university.</li>
-    <li>🤖 Pronouns: She/Her</li>
   </ul>
 </div>
 
