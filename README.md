@@ -1,5 +1,5 @@
 <div>
-  <p align="center"><i>Hi, I'm Ana!<i/></p>
+  <p align="center"><i>Hey, you're talking with Ana!<i/></p>
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="200" height="200" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
