@@ -8,7 +8,7 @@
   <ul>
     <li>📚 I'm currently studying Java!</li>
     <li>👩🏽‍💻 I've started studying C language.</li>
-    <li>💻 I'm attending the third semester of graduation in Computer Science at PUCRS university.</li>
+    <li>💻 I'm attending the fourth semester of graduation in Computer Science at PUCRS university.</li>
   </ul>
 </div>
 
