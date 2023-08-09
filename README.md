@@ -1,5 +1,8 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F792DD&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+a+Ana!+Bem-vindo!+%F0%9F%90%B1%F0%9F%8C%B8;Hi%2C+I'm+Ana!+Welcome!+%F0%9F%90%B1%F0%9F%8C%B8" alt="Typing SVG" /></a>
+</div>
+
 <div>
-  <p align="center"><i>Hey, you're talking with Ana!<i/></p>
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="200" height="200" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
