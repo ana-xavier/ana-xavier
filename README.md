@@ -9,9 +9,9 @@
 <div>
 </br>
   <ul>
-    <li>📚 I'm currently studying Java!</li>
-    <li>👩🏽‍💻 I've started studying C language.</li>
-    <li>💻 I'm attending the fourth semester of graduation in Computer Science at PUCRS university.</li>
+    <li>📚 Utilizo o GitHub para armazenar estudos!</li>
+    <li>👩🏽‍💻 Atualmente estou estudando C#</li>
+    <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
   </ul>
 </div>
 
