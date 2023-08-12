@@ -9,21 +9,34 @@
 <div>
 </br>
   <ul>
-    <li>📚 Utilizo o GitHub para armazenar estudos!</li>
-    <li>👩🏽‍💻 Atualmente estou estudando C#</li>
+    <li>📚 Utilizo o GitHub estudos!</li>
     <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
+    <li>Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
+    <li> Atualmente estudando:
+      <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img align="center" alt="Ana-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
+      <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    </li>
   </ul>
 </div>
 
-<div align="center">
-</br>
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img align="center" alt="Ana-C" height="30" width="40" src="https://user-images.githubusercontent.com/78264318/225496188-4164f3fb-080b-4ff8-8103-9929d8eb91e4.png" />
-  </br>
-</div>
+## Experiências! 📒🎀
+<h4>Web:
+  <img align="center" alt="Ana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Ana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Ana-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</h4>
+<h4>Banco de dados: 
+  <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Ana-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Ana-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />    
+</h4>
+<h4>Funcional: 
+   <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+</h4>
+<h4>Baixo nível:
+    <img align="center" alt="Ana-mongo" height="30" width="40" align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</h4>
 
 ##
 
