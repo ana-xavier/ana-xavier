@@ -14,8 +14,8 @@
     <li>Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
     <li> Atualmente estudando:
       <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img align="center" alt="Ana-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
       <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+      <img align="center" alt="Ana-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
     </li>
   </ul>
 </div>
