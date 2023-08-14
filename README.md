@@ -31,21 +31,35 @@
 
 
 ## Experiências! 📒🎀
-<h4>Web:
-  <img align="center" alt="Ana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ana-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</h4>
-<h4>Banco de dados: 
-  <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Ana-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Ana-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />    
-</h4>
-<h4>Funcional: 
-   <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-</h4>
-<h4>Baixo nível:
-    <img align="center" alt="Ana-mongo" height="30" width="40" align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</h4>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h4>Web:
+          <img align="center" alt="Ana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          <img align="center" alt="Ana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          <img align="center" alt="Ana-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        </h4>
+      </td>
+      <td>
+        <h4>Banco de dados: 
+          <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          <img align="center" alt="Ana-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          <img align="center" alt="Ana-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />    
+        </h4>
+      </td>
+      <td>
+        <h4>Funcional: 
+         <img align="center" alt="Ana-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+        </h4>
+      </td>
+      <td>
+        <h4>Baixo nível:
+          <img align="center" alt="Ana-mongo" height="30" width="40" align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        </h4>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ##
