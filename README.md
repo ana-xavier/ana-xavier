@@ -6,21 +6,19 @@
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="200" height="200" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
-<div>
-</br>
-  <ul>
-    <li>📚 Utilizo o GitHub para estudos!</li>
-    <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
-    <li>Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
+
+  > 📚 Utilizo o GitHub para estudos!
+  <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
+  <li> Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
     <li> Atualmente estudando:
       <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img align="center" alt="Ana-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       <img align="center" alt="Ana-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
     </li>
-  </ul>
-</div>
 
-##
+
+
+---
 
 
 <div align="center" >
@@ -28,9 +26,8 @@
   <a href="https://www.instagram.com/ana.oxavier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-oxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-## Experiências! 📒🎀
+<!--
+## Experiências! 🎀
 <div align="center">
   <table>
     <tr>
@@ -61,5 +58,5 @@
     </tr>
   </table>
 </div>
+-->
 
-##
