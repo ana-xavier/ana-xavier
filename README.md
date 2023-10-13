@@ -3,9 +3,8 @@
 </div>
 
 <div>
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/2bea94e6a9938679db696716b0b0ddb0.gif" width="200" height="200" border="0"      alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <img align="right" src="https://media.tenor.com/K1ps3qaF1psAAAAi/kirby-nintendo.gif" width="200" height="200" border="0" />
 </div>
-
 
   > 📚 Utilizo o GitHub para estudos!
   <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
