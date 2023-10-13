@@ -9,7 +9,7 @@
   > 📚 Utilizo o GitHub para estudos!
   <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
   <li> Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
----
+
 <div align="center" >
 </br>
   <a href="https://www.instagram.com/ana.oxavier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
