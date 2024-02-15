@@ -7,7 +7,7 @@
 </div>
 
   > 📚 Utilizo o GitHub para estudos!
-  <li>💻 PUCRS | Ciência da Computação | 4° semestre </li>
+  <li>💻 PUCRS | Ciência da Computação | 5° semestre </li>
   <li> Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
 
 <div align="center" >
