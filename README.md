@@ -8,7 +8,7 @@
 
   > 📚 Utilizo o GitHub para estudos!
   <li>💻 PUCRS | Ciência da Computação | 6° semestre </li>
-  <li> Minha linguagem conforto é Java! <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></li>
+  <li>🪐 Estagiária em Desenvolvimento de Software</li>
 
 <div align="center" >
 </br>
@@ -19,6 +19,7 @@
 ---
 
 <div align="center">
+  <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ana-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
