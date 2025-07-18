@@ -7,8 +7,8 @@
 </div>
 
   > 📚 Utilizo o GitHub para estudos!
-  <li>💻 PUCRS | Ciência da Computação | 7° semestre </li>
-  <li>🪐 Estagiária em Desenvolvimento de Software</li>
+  <li>💻 PUCRS | Ciência da Computação | 8° semestre </li>
+  <li>🪐 DevOps | SRE Jr. </li>
 
 <div align="center" >
 </br>
